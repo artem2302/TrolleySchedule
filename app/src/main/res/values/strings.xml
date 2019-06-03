@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrolleySchedule</string>
+    <string name="day_routes">Дневные</string>
+    <string name="night_routes">Ночные</string>
+    <string name="trolley_no">Троллейбус №</string>
+    <string name="route">Маршрут:</string>
+    <string name="time_start">Начало работы:</string>
+    <string name="time_stop">Конец работы:</string>
+    <string name="interval">Интервал:</string>
+    <string name="stops">Остановки:</string>
+    <string name="title_activity_schedule">Расписание троллейбусов</string>
+    <string name="mins">мин.</string>
+</resources>

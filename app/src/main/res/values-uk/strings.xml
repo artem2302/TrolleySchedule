@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrolleySchedule</string>
+    <string name="day_routes">Денні</string>
+    <string name="interval">Інтервал:</string>
+    <string name="night_routes">Нічні</string>
+    <string name="route">Маршрут:</string>
+    <string name="time_start">Початок роботи:</string>
+    <string name="time_stop">Кінець роботи:</string>
+    <string name="trolley_no">Тролейбус №</string>
+    <string name="stops">Зупинки:</string>
+    <string name="mins">хв.</string>
+    <string name="title_activity_schedule">Розклад тролейбусів</string>
+</resources>
